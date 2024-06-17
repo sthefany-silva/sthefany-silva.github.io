@@ -40,31 +40,9 @@ header h1{
     text-align: center;
 }
 
-nav{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #353841;
-    padding: 10px 5px;
-    border-radius: 5px;
-    font-weight: bold;
-       
-    }
 
-    nav a{
-        text-decoration: none;
-    } 
 
-    nav a:hover{
-        background-color: #585E6B;
-        border-radius: 5px;
-        padding: 10px;
-        color: aliceblue;
-        transition: 1s;
-    }  
-
-    nav a:visited{
-        color: #353841;
-    }
+  
 
 
 
